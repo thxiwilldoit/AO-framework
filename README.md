@@ -3,10 +3,11 @@
 This is the code for our paper titled: 'Visual-Enhanced Multimodal Framework for Flexible Job Shop Scheduling Problem', which has been accepted by ACM MM 2025 (2025 ACM Multimedia). We encourage everyone to use this code and cite our paper:
 
 ```
-@inproceedings{zhao2025MMfjsp,
+@inproceedings{zhao2025visual,
   title={Visual-Enhanced Multimodal Framework for Flexible Job Shop Scheduling Problem},
-  author={Peng Zhao, Zhiguang Cao, Di Wang, Wen Song, Wei Pang, You Zhou, Yuan Jiang},
-  booktitle={Proceedings of the 33nd ACM International Conference on Multimedia},
+  author={Zhao, Peng and Cao, Zhiguang and Wang, Di and Song, Wen and Pang, Wei and Zhou, You and Jiang, Yuan},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={2496--2505},
   year={2025}
 }
 ```
